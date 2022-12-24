@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "180272766150",
+    "project_id": "dreamchat-96bf6",
+    "storage_bucket": "dreamchat-96bf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180272766150:android:3b7d5b924b392b0f1b8bc7",
+        "android_client_info": {
+          "package_name": "com.example.dreamchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180272766150-nf0amt84qk54mgm6japo6o1aiu2s1d40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0zLb6TUF5JgNAQ9nByyXfZTiOSoNe--Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180272766150-nf0amt84qk54mgm6japo6o1aiu2s1d40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
