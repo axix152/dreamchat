@@ -1,6 +1,6 @@
 # dreamchat
 
-A new Flutter project.
+Dream chat app where user can register with phone number and chat with other like text messages audio call video call share data
 
 ## Getting Started
 
